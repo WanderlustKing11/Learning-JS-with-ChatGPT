@@ -1,3 +1,5 @@
+// Here we are learning about the 'for...of' loop
+
 // Written by ChatGPT
 
 // Write a JavaScript function called countVowels that takes a string 
