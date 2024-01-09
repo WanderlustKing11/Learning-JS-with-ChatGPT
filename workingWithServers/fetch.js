@@ -1,3 +1,6 @@
+
+/////// Basic POST request /////////
+
 const MY_API = 'https://jsonplaceholder.typicode.com/posts';
 
 // async function main() {
@@ -36,7 +39,7 @@ const MY_API = 'https://jsonplaceholder.typicode.com/posts';
 
 // Now we want to take the user's input value (a name),
 // and use that instead of our hard coded data, to send
-// as a post.
+// as a post. Get this from fetch.html
 
 // const form = document.querySelector('form');
 // const fName = document.getElementById('fName');
@@ -109,6 +112,7 @@ const MY_API = 'https://jsonplaceholder.typicode.com/posts';
 
 //////////////////////////////////////////////////
 
+///////// Attempting to use different API /////////////
 
 // document.addEventListener('DOMContentLoaded', (event) => {
 //     const form = document.querySelector('form');

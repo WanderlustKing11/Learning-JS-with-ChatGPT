@@ -1,0 +1,33 @@
+body {
+    margin-left: auto;
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
+
+#title {
+    font-size: 1rem;
+    margin-top: 4rem;
+}
+
+#weather-icon {
+    display: flex;
+    align-content: center;
+    margin: 0 1rem;
+}
+
+#weather {
+    margin-left: 2rem;
+}
