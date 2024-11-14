@@ -1,0 +1,12 @@
+{ 
+  "type": "module",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run:try-catch": "ts-node src/try-catch/example.ts",
+    "run:node-stuff": "ts-node src/node-stuff/example.ts"
+  }
+}
